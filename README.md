@@ -16,10 +16,10 @@ I downloaded the json version and then I used python to get the list of cities i
 <b> HOW TO RUN THIS APP</b>
   
 <ul>
-  <li>https://github.com/sagarhippargi/weatherapp </li>
+  <li>git clone https://github.com/sagarhippargi/weatherapp </li>
   <li>cd weatherapp</li>
   <li>pip install -r requirements.txt</li>
   <li>python manage.py runserver</li>
   <li>the website will be available at http://127.0.0.1:8000/</li>
-  <li> enter the city in the search city and the weather details will be available in the page <li> 
+  <li> enter the city in the search city and the weather details will be available in the page </li> 
 </ul>
